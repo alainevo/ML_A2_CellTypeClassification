@@ -1,1 +1,2 @@
-# cosc2673_a2
+# COSC2673 - Machine Learning
+# Project: Cell Type Classification
